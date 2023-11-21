@@ -6,6 +6,7 @@ function count(x) {
         document.getElementById('result').innerHTML = result;
         if (result<0) {
             document.getElementById('result').innerHTML = 0;
+            result = 0;
         }
     }
     else{
