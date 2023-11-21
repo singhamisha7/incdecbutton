@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    padding: 10px;
+}
+.btn{
+    padding : 8px;
+    margin:  10px;
+}
+#result{
+    padding : 8px;
+    margin:  10px 0px;
+}
